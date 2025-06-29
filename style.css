@@ -122,7 +122,7 @@ p {
   }
   
   form input {
-    width: 100%;          /* поле ввода растянется по ширине формы */
+    width: 95%;          /* поле ввода растянется по ширине формы */
     font-size: 18px;
     padding: 8px;
   }
@@ -198,7 +198,7 @@ p {
   
   form button {
     font-size: 14px;
-    padding: 4px 8px;
+    padding: 8px 8px;
   }
 
 #square, #volume {
